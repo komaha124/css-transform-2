@@ -77,4 +77,8 @@ body {
      width: 220px;
      height: 220px;
  }
- 
+ hr {
+    width: 45px;
+    border: 3px solid #dddbdb;
+    background-color: #dddbdb;
+}
